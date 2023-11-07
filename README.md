@@ -9,7 +9,7 @@
 
 [![An image of @kapooraryan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kapooraryan)](https://holopin.io/@kapooraryan)
 
-### About Me
+### 👨‍💻About Me
 
 - 🔭 I’m passionate about Web Development and Open Source and do Graphic Design work on the side.
 - 🌱 I’m currently learning by diving into the field of **Data Science**
@@ -17,6 +17,17 @@
 - 🏢 I'm looking for a job or an internship currently. If you see me as a good fit, check out my [resume](https://drive.google.com/file/d/1aCWlkMqI8ywfFtgY80p9UPtUHIv0yC5h/view?usp=sharing) and I'd love to collaborate with you.
 - 🤔 Want to know more? Check out my [portfolio](https://kapooraryan.vercel.app/) website.
 - ⚡ Fun fact: No two tigers have the same stripes (read: Everyone is unique).
+
+### ⭐Achievements
+#### Hackathons
+
+- Best use of Auth0 prize at the All in Hackathon by Major League Hacking.
+
+#### Open Source
+
+- #11th global team rank in HackSquad 2023 and finished as one of the Top 60 winning teams.
+- All PRs reviewed and accepted in Hacktoberfest 2023.
+
 
 
 
