@@ -1,4 +1,4 @@
-### Hi there 👋
+![Banner](https://github.com/kapooraryan/kapooraryan/assets/69362333/3898fb20-4413-499c-bdd9-4d74c2960493)
 
 <!--
 **kapooraryan/kapooraryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
