@@ -1,10 +1,10 @@
 ![Banner](https://github.com/kapooraryan/kapooraryan/assets/69362333/3898fb20-4413-499c-bdd9-4d74c2960493)
 
 <p align="center">Greetings Earthlings 🌌I'm</p>
-<img src="https://komarev.com/ghpvc/?username=kapooraryan&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=kapooraryan&style=flat-square&color=blue" alt=""/>
 <h1 align="center"><strong>Aryan Kapoor</strong></h1>
 
-
+[![An image of @kapooraryan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kapooraryan)](https://holopin.io/@kapooraryan)
 <!--
 **kapooraryan/kapooraryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
