@@ -28,6 +28,10 @@
 - #11th global team rank in HackSquad 2023 and finished as one of the Top 60 winning teams.
 - All PRs reviewed and accepted in Hacktoberfest 2023.
 
+### Skills
 
 
+  <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,bootstrap,tailwind,js,jquery,react,nextjs,nodejs,express,mysql,mongodb,git,github,firebase,ps" />
+  </a>
 
