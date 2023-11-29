@@ -14,7 +14,7 @@
 - 🔭 I’m passionate about **Web Development** and **Open Source** and do **Graphic Design** work on the side.
 - 🌱 I’m currently learning by diving into the field of **Data Science**
 - 🤝 I’m looking to collaborate on making meaningful projects.
-- 🏢 I'm looking for a job or an internship currently. If you see me as a good fit, check out my [resume](https://drive.google.com/file/d/1aCWlkMqI8ywfFtgY80p9UPtUHIv0yC5h/view?usp=sharing) and I'd love to collaborate with you.
+- 🏢 I'm looking for a job or an internship currently. If you see me as a good fit, check out my [resume](https://drive.google.com/file/d/1AqCJP9kmuYiaqO1Qa-AbLhvAaVWpW3bb/view?usp=sharing) and I'd love to collaborate with you.
 - 🤔 Want to know more? Check out my [portfolio](https://kapooraryan.vercel.app/) website.
 - ⚡ Fun fact: No two tigers have the same stripes (read: Everyone is unique).
 
