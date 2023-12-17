@@ -22,7 +22,8 @@
 #### Hackathons
 
 - Best use of Auth0 prize at the All in Hackathon by Major League Hacking.
-- Winner of Web3 in Healthcare track at the Web3Apps Hackathon by Major League Hacking
+- Winner of the Web3 in Healthcare track at the Web3Apps Hackathon by Major League Hacking.
+- Winner of the Best Financial Services Hack at the All In Open Source Hackathon by Major League Hacking.
 
 #### Open Source
 
