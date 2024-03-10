@@ -1,5 +1,3 @@
-![Banner](https://github.com/kapooraryan/kapooraryan/assets/69362333/3898fb20-4413-499c-bdd9-4d74c2960493)
-
 <p align="center">Greetings Earthlings 🌌I'm</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kapooraryan&style=flat-square&color=blue" style="margin: 0 auto; display: block;" />
